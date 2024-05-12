@@ -1,5 +1,5 @@
 An Wikipedia OpenSource Alternative
-what else to say.
+think it as an Wiki Template.
 
 Q and A:
 
