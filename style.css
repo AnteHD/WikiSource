@@ -1,0 +1,21 @@
+body {
+
+  background-color: black;
+
+}
+
+h1 {
+
+  color: white;
+
+  margin-right: 100px;
+  text-align: center;
+}
+
+
+a{
+
+  color: white;
+  font-family: Arial;
+  text-decoration: none;
+}
