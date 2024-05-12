@@ -17,6 +17,20 @@ Q: Can i use this.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A: Yes but you must credit me in some way
 
 
@@ -52,6 +66,32 @@ How it looks:
 
 
 https://github.com/Arki133/WikiSource/assets/92042600/b58aa43a-f7c8-487b-a92b-5a2d95d01e41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
