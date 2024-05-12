@@ -36,6 +36,19 @@ A: Yes but you must credit me in some way
 
 Update Logs:
 
+Ver.02
+
+Made text repositioning
+And rewrited my sloppy HTML Code
+
+How it looks:
+
+
+
+https://github.com/Arki133/WikiSource/assets/92042600/b58aa43a-f7c8-487b-a92b-5a2d95d01e41
+
+
+
 Ver.01
 
 Started the project. ive coded the html and css file (and the repository)
