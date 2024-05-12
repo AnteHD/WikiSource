@@ -31,6 +31,12 @@ h1 {
   
 }
 
+#button3 {
+  text-align: left;
+  line-height: 1cm
+  
+}
+
 #pic1 {
 
 float: right;
@@ -38,4 +44,28 @@ float: right;
 
 }
 
+#home {
 
+  color: white;
+
+  margin-right: 1300px;
+  text-align: left;
+}
+
+#textcontent {
+
+  color:#ffffff;
+  font-family: Arial;
+  position: fixed;
+  bottom: 450;
+  right: 0;
+  width: 1550px;
+
+}
+
+
+#button4 {
+  text-align: left;
+  line-height: 1cm
+  
+}
