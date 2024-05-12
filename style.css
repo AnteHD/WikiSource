@@ -13,9 +13,29 @@ h1 {
 }
 
 
-a{
+#button1 {
 
-  color: white;
+  color: #ffffff;
   font-family: Arial;
   text-decoration: none;
+  line-height: 1cm
+  
 }
+
+#button2 {
+
+  color: #ffffff;
+  font-family: Arial;
+  text-decoration: none;
+  line-height: 1cm
+  
+}
+
+#pic1 {
+
+float: right;
+
+
+}
+
+
