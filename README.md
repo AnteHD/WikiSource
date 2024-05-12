@@ -39,7 +39,12 @@ Update Logs:
 Ver.02
 
 .Made text repositioning
-.Rewrited my sloppy HTML Code
+
+
+.Rewrote my sloppy HTML Code
+
+
+
 .Made Sections
 
 How it looks:
