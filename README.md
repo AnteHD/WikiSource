@@ -36,6 +36,43 @@ A: Yes but you must credit me in some way
 
 Update Logs:
 
+Ver.03
+Remade the navigation bar
+and layout changes
+
+
+
+
+
+
+
+Ver.02
+.Rewrote my sloppy code
+more in the future
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ver.01
 
 Started the project. ive coded the html and css file (and the repository)
