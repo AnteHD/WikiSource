@@ -38,7 +38,7 @@ Update Logs:
 
 Ver.03
 Remade the navigation bar
-and layout changes
+layout changes and added potato man image in the files
 https://github.com/Arki133/WikiSource/assets/92042600/fe062054-f6ad-48f4-a124-02054079da11
 
 
@@ -46,7 +46,7 @@ https://github.com/Arki133/WikiSource/assets/92042600/fe062054-f6ad-48f4-a124-02
 
 
 Ver.02
-.Rewrote my sloppy code
+Rewrote my sloppy code
 more in the future
 
 
