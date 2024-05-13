@@ -13,30 +13,6 @@ h1 {
 }
 
 
-#button1 {
-
-  color: #ffffff;
-  font-family: Arial;
-  text-decoration: none;
-  line-height: 1cm
-  
-}
-
-#button2 {
-
-  color: #ffffff;
-  font-family: Arial;
-  text-decoration: none;
-  line-height: 1cm
-  
-}
-
-#button3 {
-  text-align: left;
-  line-height: 1cm
-  
-}
-
 #pic1 {
 
 float: right;
@@ -47,6 +23,17 @@ float: right;
 #home {
 
   color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 125px;
+
+
+}
+
+#example {
+
+  color: white;
 
   margin-right: 1300px;
   text-align: left;
@@ -55,17 +42,60 @@ float: right;
 #textcontent {
 
   color:#ffffff;
-  font-family: Arial;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   position: fixed;
-  bottom: 450;
-  right: 0;
-  width: 1550px;
+  bottom: 300;
+  right: 10;
+  width: 1250px;
 
 }
 
 
-#button4 {
-  text-align: left;
-  line-height: 1cm
+
+body {
+  margin: 0px;
+      }
   
+  
+  .navbar ul{
+      list-style-type: none;
+      background-color: hsl(0, 0%, 0%);
+      padding: 0px;
+      margin: 0px;
+      overflow: hidden;
+  }
+  .navbar a{
+      color: white;
+      text-decoration: none;
+      padding: 15px;
+      display: block;
+      text-align: center;
+      font-family: Arial;
+  
+  }
+  
+  .navbar a:hover{ 
+      background-color: hsl(0, 0%, 50%);
+  
+  
+  }
+  
+  .navbar li{
+      float: left;
+  
+  }
+
+  img {
+    position: fixed;
+    right: 1100px;
+    top: 100;
+
+  }
+
+
+#overwrite {
+  position: fixed;
+  bottom: 500;
+  right: 0;
+  width: 1200px;
 }
