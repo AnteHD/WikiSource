@@ -39,8 +39,7 @@ Update Logs:
 Ver.03
 Remade the navigation bar
 and layout changes
-
-
+https://github.com/Arki133/WikiSource/assets/92042600/fe062054-f6ad-48f4-a124-02054079da11
 
 
 
