@@ -34,16 +34,12 @@ A: Yes but you must credit me in some way
 
 
 
-Update Logs:
+Update Dates:
 
-Ver.01
+Ver.04  14.5.24
+	
+Ver.03	13.5.24
 
-Started the project. ive coded the html and css file (and the repository)
+Ver.02 	12.5.24
 
-how it looks:
-
-
-
-
-
-https://github.com/Arki133/WikiSource/assets/92042600/57516169-547e-4d90-b20a-15624c5eebee
+Ver.01	11.5.24
