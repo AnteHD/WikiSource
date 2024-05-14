@@ -36,42 +36,6 @@ A: Yes but you must credit me in some way
 
 Update Logs:
 
-Ver.03
-Remade the navigation bar
-layout changes and added potato man image in the files
-https://github.com/Arki133/WikiSource/assets/92042600/fe062054-f6ad-48f4-a124-02054079da11
-
-
-
-
-
-Ver.02
-Rewrote my sloppy code
-more in the future
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ver.01
 
 Started the project. ive coded the html and css file (and the repository)

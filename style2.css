@@ -10,6 +10,7 @@ h1 {
 
   margin-right: 100px;
   text-align: center;
+  
 }
 
 
@@ -26,7 +27,7 @@ float: right;
   position: fixed;
   bottom: 0;
   right: 0;
-  width: 125px;
+  width: 140px;
 
 
 }
@@ -97,29 +98,28 @@ body {
   position: fixed;
   bottom: 500;
   right: 0;
-  width: 1200px;
+  width: 1300px;
 }
 
 
 #pic5 {
 
   position: fixed;
-  right: 1290px;
-  top: 550;
+  right: 1000px;
+  top: 200;
   
 }
 
 
 .github {
   position: fixed;
-  bottom: 20;
-  right: 100;
-  width: 1250px;
+  bottom: 200;
+  right: 170;
+  width: 1000px;
   text-decoration: none;
   color: white;
   font-family: Arial;
-
-
+  font-size: 200%;
 
 }
 
